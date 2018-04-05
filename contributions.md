@@ -10,4 +10,6 @@
 |     8      |  Course Website   |[Issue Commented On](https://github.com/joannakl/cs480_s18/issues/94)|
 |     9      |       PDF.js      |[Issue Commented On](https://github.com/mozilla/pdf.js/issues/9570)|
 |     9      |  Course Website   |[Issue Commented On](https://github.com/joannakl/cs480_s18/issues/97)|
-|     9      |  Course Website   |[Pull Request Submitted](https://github.com/joannakl/cs480_s18/pull/94)|
+|     9      |  Course Website   |[Pull Request Submitted](https://github.com/joannakl/cs480_s18/pull/94)| 
+|     10     |     Wikipedia     |[Gob Squad Edit](https://en.wikipedia.org/w/index.php?title=Gob_Squad&diff=prev&oldid=834312727)| 
+|     10     |     Wikipedia     |[William Fitzsimmons Edit](https://en.wikipedia.org/w/index.php?title=William_Fitzsimmons_(musician)&diff=prev&oldid=834325360)| 
