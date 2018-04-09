@@ -15,7 +15,7 @@
 |     10     |     Wikipedia     |[William Fitzsimmons Edit](https://en.wikipedia.org/w/index.php?title=William_Fitzsimmons_(musician)&diff=prev&oldid=834325360)| 
 |     10     |     Wikipedia     |[MoviePass Edit](https://en.wikipedia.org/w/index.php?title=MoviePass&diff=prev&oldid=834421512)|
 
-#### Total - 13 points
+#### Total - 14 points
 - **8 point** - Course Website
 - **5 point** - Wikipedia
 - **1 point** - PDF.js
