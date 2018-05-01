@@ -14,8 +14,15 @@
 |     10     |     Wikipedia     |[Gob Squad Edit](https://en.wikipedia.org/w/index.php?title=Gob_Squad&diff=prev&oldid=834312727)| 
 |     10     |     Wikipedia     |[William Fitzsimmons Edit](https://en.wikipedia.org/w/index.php?title=William_Fitzsimmons_(musician)&diff=prev&oldid=834325360)| 
 |     10     |     Wikipedia     |[MoviePass Edit](https://en.wikipedia.org/w/index.php?title=MoviePass&diff=prev&oldid=834421512)|
+|     14     |  Open Street Map  |[Carnegie Plaza Edit](https://www.openstreetmap.org/changeset/58572248#map=16/40.7662/-73.9837)|
+|     14     |  Open Street Map  |[Wellington Hotel Edit](https://www.openstreetmap.org/changeset/58572300)|
+|     14     |  Open Street Map  |[Carnegie Deli Edit](https://www.openstreetmap.org/node/3481502324)|
+|     14     |  Open Street Map  |[& Hair Lounge Edit](https://www.openstreetmap.org/changeset/58572444)|
+|     14     |  Open Street Map  |[Great Neck Vivi's Edit](https://www.openstreetmap.org/changeset/58572528)|
+
 
 #### Total - 14 points
 - **8 point** - Course Website
-- **5 point** - Wikipedia
+- **5 point** - Wikipediaet Map
+- **5 point** - Open Stre
 - **1 point** - PDF.js
