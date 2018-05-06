@@ -19,10 +19,11 @@
 |     14     |  Open Street Map  |[Carnegie Deli Edit](https://www.openstreetmap.org/node/3481502324)|
 |     14     |  Open Street Map  |[& Hair Lounge Edit](https://www.openstreetmap.org/changeset/58572444)|
 |     14     |  Open Street Map  |[Great Neck Vivi's Edit](https://www.openstreetmap.org/changeset/58572528)|
+|     14     |    Terasology     |[Personal Unrelated Comment](https://github.com/MovingBlocks/Terasology/issues/2406#issuecomment-386846801)|
 
-
-#### Total - 14 points
+#### Total - 20 points
 - **8 point** - Course Website
 - **5 point** - Wikipediaet Map
 - **5 point** - Open Stre
+- **1 point** - Terasology
 - **1 point** - PDF.js
