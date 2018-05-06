@@ -20,10 +20,11 @@
 |     14     |  Open Street Map  |[& Hair Lounge Edit](https://www.openstreetmap.org/changeset/58572444)|
 |     14     |  Open Street Map  |[Great Neck Vivi's Edit](https://www.openstreetmap.org/changeset/58572528)|
 |     14     |    Terasology     |[Personal Unrelated Comment](https://github.com/MovingBlocks/Terasology/issues/2406#issuecomment-386846801)|
+|     14     |  Open Street Map  |[Bibble & Sip Edit (AKA the just-incase-you-don't-count-the-last-one edit) ](https://www.openstreetmap.org/changeset/58719277)|
 
-#### Total - 20 points
+#### Total - 21 points
 - **8 point** - Course Website
-- **5 point** - Wikipediaet Map
-- **5 point** - Open Stre
+- **6 point** - Open Street Map
+- **5 point** - Wikipedia
 - **1 point** - Terasology
 - **1 point** - PDF.js
